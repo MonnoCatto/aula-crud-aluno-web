@@ -1,0 +1,6 @@
+control/AlunoExcluir.class
+model/Aluno.class
+control/AlunoIncluir.class
+model/Pessoa.class
+dao/AlunoDAO.class
+control/AlunoAlterar.class
